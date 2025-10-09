@@ -13,8 +13,7 @@ The analysis was performed using **SQL** for querying and cleaning the data, and
 ---
 
 ## 📈 Project Steps
-1. **Data Collection & Import**[PIZZA SALES SQL QUERIES.docx](https://github.com/user-attachments/files/22801984/PIZZA.SALES.SQL.QUERIES.docx)
-
+1. **Data Collection & Import**
    - Imported the pizza sales dataset into SQL Server.
 2. **Data Cleaning**
    - Removed duplicates, handled missing values, and formatted date/time columns.
@@ -44,7 +43,7 @@ The analysis was performed using **SQL** for querying and cleaning the data, and
 ---
 
 ## 📂 Files in this Repository
-- `Pizza_Sales_Data.sql` — SQL queries used for cleaning and analysis  
+- `Pizza_Sales_Data.sql` — SQL queries used for cleaning and analysis 
 - `Pizza_Sales_Excel.xlsx` — Excel file with pivot tables and dashboard  
 - `README.md` — Project documentation (this file)
 
@@ -52,4 +51,5 @@ The analysis was performed using **SQL** for querying and cleaning the data, and
 
 
 ## 📸 Dashboard Preview
-<img width="1558" height="782" alt="image" src="https://github.com/user-attachments/assets/6a14447a-5fe3-4be8-9c76-816ce8000a45" />
+<img width="777" height="391" alt="MY DASHBOARD OVERVIEW" src="https://github.com/user-attachments/assets/6fc18dba-c7fc-4992-b934-f6f8c1b3858d" />
+
