@@ -53,3 +53,20 @@ The analysis was performed using **SQL** for querying and cleaning the data, and
 ## 📸 Dashboard Preview
 <img width="777" height="391" alt="MY DASHBOARD OVERVIEW" src="https://github.com/user-attachments/assets/6fc18dba-c7fc-4992-b934-f6f8c1b3858d" />
 
+
+---
+
+## 🧠 What I Learned
+- How to use SQL for data extraction and transformation  
+- Building interactive Excel dashboards from SQL outputs  
+- Applying analytical thinking to derive business insights from data
+
+---
+
+## 🔗 Connect with Me
+**Adeniran Deborah Amarachi**  
+📧 [deborahoruta@gmail.com](mailto:deborahoruta@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/deborah-oruta-4890a91bb)
+
+
+
