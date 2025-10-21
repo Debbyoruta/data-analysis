@@ -96,6 +96,7 @@ Try advanced models like Random Forest or XGBoost for higher accuracy.
 Deploy the model using Streamlit or Flask for real-time loan prediction.
 
 Integrate the model with Power BI or Excel dashboards for business use.
+[loan_default_prediction.ipynb](https://github.com/user-attachments/files/23031992/loan_default_prediction.ipynb)
 
 👩‍💻 Author
 
