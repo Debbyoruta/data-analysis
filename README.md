@@ -63,6 +63,48 @@ The analysis was performed using **SQL** for querying and cleaning the data, and
 
 ---
 
+### Power BI Dashboard
+- Developed a dynamic Power BI dashboard to visualize KPIs:
+  - Total revenue, total pizzas sold, total orders  
+  - Average order value, category-wise performance  
+- Implemented filters for interactive exploration of insights.
+
+### Python (Jupyter Notebook) Analysis
+- Conducted in-depth analysis using Python libraries: `pandas`, `matplotlib`, `seaborn`.
+- Computed:
+  - 📦 Total Orders (Distinct Count)  
+  - 🍕 Total Pizzas Sold  
+  - 💰 Total Revenue & Average Order Value  
+  - 📊 Monthly Trends & Category-wise Sales  
+  - 🏆 Top 5 and Bottom 5 Selling Pizzas  
+- Visualized data trends for better storytelling and decision-making.
+
+---
+
+## 🧠 Tools & Technologies
+- Excel — Data cleaning and dashboard building  
+- SQL — Querying and aggregation  
+- Power BI — Interactive visualization  
+- Python (Jupyter Notebook) — Advanced data analysis and automation  
+- GitHub — Version control and portfolio hosting
+
+---
+
+## 📁 Dataset Overview
+The dataset contains pizza order details, including:
+- Order IDs, Dates, Categories, Pizza Types, Sizes, Quantities, and Prices.  
+Used to simulate a real-world sales scenario for analysis practice.
+
+---
+
+## 💡 Key Insights
+- Classic pizzas generated the highest revenue share (~27%)  
+- Average order value ≈ ₦38  
+- Over 21K distinct orders processed with 49K+ pizzas sold  
+- Seasonal and category trends highlight opportunities for targeted promotions
+
+---
+
 ## 🔗 Connect with Me
 **Adeniran Deborah Amarachi**  
 📧 [deborahoruta@gmail.com](mailto:deborahoruta@gmail.com)  
